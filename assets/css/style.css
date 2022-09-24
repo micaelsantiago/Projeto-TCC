@@ -1,0 +1,25 @@
+:root {
+    --cor--bg: #EEE;
+    --cor--branco: #FFF;
+    --cor--azul: #2D366F;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background: var(--cor--bg)
+}
+
+a {
+    text-decoration: none
+}
+
+ul,
+li {
+    list-style: none
+}
